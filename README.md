@@ -2,16 +2,6 @@
 
 Compfest senior competitive programming contest archive.
 
-## Directory Structure
-
-```
-compfest/
-└── (year)/
-    ├── (problem).(extension)
-    └── (team)/
-        └── (solution).(extension)
-```
-
 ## Track Records
 
 ### 2018
